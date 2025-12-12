@@ -1,0 +1,55 @@
+{
+  "globalKeywords": "",
+  "minBudget": "50000",
+  "excludeKeywords": "Reinigung, Catering, Gebäudereinigung",
+  "portals": [
+    {
+      "id": "ausschreibung_at",
+      "region": "Tirol",
+      "criteria": "Tiefbau",
+      "enabled": true
+    },
+    {
+      "id": "staatsanzeiger_1",
+      "region": "Salzburg",
+      "criteria": "Leitungsbau",
+      "enabled": true
+    },
+    {
+      "id": "staatsanzeiger_2",
+      "region": "Salzburg",
+      "criteria": "Leitungsbau",
+      "enabled": true
+    },
+    {
+      "id": "deutsche_evergabe",
+      "region": "Vorarlberg",
+      "criteria": "Aushubarbeiten",
+      "enabled": true
+    },
+    {
+      "id": "rib",
+      "region": "Bayern",
+      "criteria": "Erdarbeiten",
+      "enabled": true
+    },
+    {
+      "id": "tender24",
+      "region": "Baden-Württemberg",
+      "criteria": "Straßenbau",
+      "enabled": true
+    }
+  ],
+  "customPortals": [
+    {
+      "id": "custom_bb18947c",
+      "name": "Vergabe Bayern",
+      "url": "https://www.auftraege.bayern.de",
+      "region": "Bayern",
+      "criteria": "Tiefbau",
+      "username": "",
+      "password": "",
+      "enabled": true
+    }
+  ]
+}
